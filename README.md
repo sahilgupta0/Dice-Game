@@ -5,6 +5,5 @@
 # Run the following command
 
 npm i
-
-![Screenshot from 2025-01-14 23-16-40](https://github.com/user-attachments/assets/c52b03c3-6629-4160-aa8e-b1cec1768a35)
+![Screenshot from 2025-01-14 23-20-43](https://github.com/user-attachments/assets/3b20873f-7fce-4232-9a67-4bd17823499c)
 
